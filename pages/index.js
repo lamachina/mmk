@@ -16,7 +16,6 @@ export default function Home() {
 				<title>Maison Maillard Konzett</title>
 			</Head>
 			<HeroSection />
-			<ClientSliderOne />
 			<FeatureSectionTwo />
 			<ContentWithPhotoSection />
 			<VideoSectionTwo />

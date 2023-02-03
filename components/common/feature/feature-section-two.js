@@ -6,7 +6,7 @@ export default function FeatureSectionTwo() {
 		<div className="section bg-warning-400 fugu-section-padding3">
 			<div className="container">
 				<div className="fugu-section-title title-large">
-					<h2>Combines the best features of crypto</h2>
+					<h2>Join the fusion</h2>
 				</div>
 				<div className="row">
 					<div className="col-lg-6">
@@ -15,10 +15,9 @@ export default function FeatureSectionTwo() {
 								<img src="/images/all-img/icon1.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4>Industry-leading security</h4>
+								<h4>Art curation and acquisition</h4>
 								<p>
-									Security tokens are digital that represent & transferred ownership rights to a
-									blockchain token.
+									We help clients discover and purchase unique pieces of art that align with their personal taste and collection goals.
 								</p>
 								<Link href={"/"} legacyBehavior>
 									<a className="fugu-icon-btn">
@@ -34,10 +33,9 @@ export default function FeatureSectionTwo() {
 								<img src="/images/all-img/icon2.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4>Ownership over your coins</h4>
+								<h4>Expert authentication and appraisal</h4>
 								<p>
-									The most reliable way to prove ownership of crypto currencies is to sign a specified
-									message with a key.
+									Our team of experts provides thorough and accurate evaluations of the authenticity and value of art pieces.
 								</p>
 								<Link href={"/"} legacyBehavior>
 									<a className="fugu-icon-btn">
@@ -53,10 +51,9 @@ export default function FeatureSectionTwo() {
 								<img src="/images/all-img/icon3.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4>Cold storage for most users</h4>
+								<h4>Customized art frame and installation</h4>
 								<p>
-									A cold wallet, otherwise known as a hardware wallet cold storage, is a physical
-									device that keeps offline.
+									We offer personalized placement and installation recommendations to enhance the beauty and impact of clients art collections.
 								</p>
 								<Link href={"/"} legacyBehavior>
 									<a className="fugu-icon-btn">
@@ -72,10 +69,9 @@ export default function FeatureSectionTwo() {
 								<img src="/images/all-img/icon4.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data">
-								<h4>Crime insurance against theft</h4>
+								<h4>Personalized art collection management and preservation</h4>
 								<p>
-									Crime insurance protects a company from loss of money, securities, inventory from
-									fraud events.
+									We provide tailored and professional care for clients' art collections, including storage, preservation, and insurance solutions.
 								</p>
 								<Link href={"/"} legacyBehavior>
 									<a className="fugu-icon-btn">
