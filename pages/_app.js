@@ -10,6 +10,7 @@ import Preloader from "../components/common/preloader/preloader";
 import ScrollTop from "../components/common/scroll-top";
 import "../styles/css/app.css";
 import "../styles/css/main.css";
+import "../styles/css/animate.css"
 
 function MyApp({ Component, pageProps }) {
 	return (

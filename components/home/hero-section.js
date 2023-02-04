@@ -1,5 +1,4 @@
 import Link from "next/link";
-
 /* eslint-disable @next/next/no-img-element */
 export default function HeroSection() {
 	return (
@@ -9,10 +8,10 @@ export default function HeroSection() {
 					<div className="col-xl-6 col-lg-7">
 						<div className="fugu-hero-content">
 							<h1 className="wow fadeInUpX" data-wow-delay="0s">
-								Where modern art meets timeless elegance.
+								<span className="modernfont" >Where</span> modernity <span className="modernfont" >meets</span>  timeless elegance.
 							</h1>
 							<p className="wow fadeInUpX" data-wow-delay="0.25s">
-								... now in our exclusive gallery.
+								The latest collection showcases a carefully selected range of pieces, chosen with the utmost precision and caution to embody the gallery's appreciation for excellence.
 							</p>
 							<div className="fugu-app-btn-wrap wow fadeInUpX" data-wow-delay="0.40s">
 								<Link href={"contact"} legacyBehavior>
@@ -26,7 +25,7 @@ export default function HeroSection() {
 									</a>
 								</Link>
 							</div>
-							<div className="fugu-hero-client-area wow fadeInUpX" data-wow-delay="0.50s">
+							{/* <div className="fugu-hero-client-area wow fadeInUpX" data-wow-delay="0.50s">
 								<div className="fugu-hero-client-wrap">
 									<div className="fugu-hero-client-thumb">
 										<img src="/images/all-img/client.png" alt="title" />
@@ -57,12 +56,16 @@ export default function HeroSection() {
 										<li>Rating</li>
 									</ul>
 								</div>
-							</div>
+							</div> */}
 						</div>
 					</div>
 					<div className="col-xl-6 col-lg-7">
-						<div className="fugu-hero-thumb" style={{ position: "inherit" }}>
-							<img src="/images/all-img/hand-mocup.png" alt="title" sizes="300%" />
+						<div className="fugu-hero-thumb" style={{ position: "relative" }}>
+							<img className="rotright" src="/images/all-img/eyeimg/bluefont.png" alt="title" sizes="300%" style={{ borderRadius: "100%" }} />
+							<img className="rotleft" src="/images/all-img/eyeimg/bluefont.png" alt="title" sizes="300%" style={{ borderRadius: "100%", opacity: 0.5 }} />
+							<img className="crazyanim" src="/images/all-img/eyeimg/eyeone.png" alt="title" sizes="500%" />
+
+
 						</div>
 					</div>
 				</div>
