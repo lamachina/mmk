@@ -3,7 +3,7 @@ import Link from "next/link";
 /* eslint-disable @next/next/no-img-element */
 export default function FeatureSectionTwo() {
 	return (
-		<div className="section bg-warning-400 fugu-section-padding3">
+		<div className="section bg-warning-700 fugu-section-padding3">
 			<div className="container">
 				<div className="fugu-section-title title-large">
 					<h2>Join the fusion</h2>

@@ -2,7 +2,7 @@
 
 export default function ContentWithPhotoSectionTwo() {
 	return (
-		<div className="section bg-warning-300 fugu-section-padding z-index">
+		<div className="section bg-warning-100 fugu-section-padding z-index">
 			<div className="container">
 				<div className="row">
 					<div className="col-lg-6">
@@ -21,10 +21,9 @@ export default function ContentWithPhotoSectionTwo() {
 					</div>
 					<div className="col-lg-6 col-md-10 d-flex align-items-center">
 						<div className="fugu-default-content large-content">
-							<h2>Open an account in 3 easy steps</h2>
+							<h2>Master your Art Collection</h2>
 							<p>
-								Become a better investor on the go, right in the app. Join a new generation of crypto
-								investors. Easy interface to create an account.
+								Effortlessly manage your art desires in 3 simple steps...
 							</p>
 							<div className="fugu-icon-list2">
 								<ul>
@@ -32,22 +31,22 @@ export default function ContentWithPhotoSectionTwo() {
 										<div className="fulo-list-icon">
 											<img src="/images/svg/download.svg" alt="" />
 										</div>
-										<h4>Download and create an account easily</h4>
-										<p>Download it through Google Play or the App Store easy.</p>
+										<h4>Organize</h4>
+										<p>Download important information about your collection, including résumés, reviews, and quotations.</p>
 									</li>
 									<li>
 										<div className="fulo-list-icon">
 											<img src="/images/svg/link.svg" alt="" />
 										</div>
-										<h4>Link your bank account & make a payment</h4>
-										<p>Add a personal checking account at the bottom of link.</p>
+										<h4>Connect</h4>
+										<p>Network with other art enthusiasts and share your collections with galleries, artists, and experts in the field.</p>
 									</li>
 									<li>
 										<div className="fulo-list-icon">
 											<img src="/images/svg/lightning-bolt.svg" alt="" />
 										</div>
-										<h4>Start buying & selling crypto as you wish</h4>
-										<p>Although many people prefer to apply the buy and hold.</p>
+										<h4>Build</h4>
+										<p>Confidently buy and sell art pieces that align with your goals.</p>
 									</li>
 								</ul>
 							</div>

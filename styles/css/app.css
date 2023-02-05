@@ -1074,11 +1074,11 @@ blockquote {
 }
 
 .bg-warning-600 {
-	background-color: #eee6d0 !important;
+	background-color: var(--warning-600) !important;
 }
 
 .border-warning-600 {
-	border-color: #eee6d0 !important;
+	border-color: var(--warning-600) !important;
 }
 
 .hoverbg-warning-600:hover {
@@ -1102,11 +1102,11 @@ blockquote {
 }
 
 .bg-warning-500 {
-	background-color: #90C1D9 !important;
+	background-color: var(--warning-500) !important;
 }
 
 .border-warning-500 {
-	border-color: #90C1D9 !important;
+	border-color: var(--warning-500) !important;
 }
 
 .hoverbg-warning-500:hover {
@@ -1130,11 +1130,11 @@ blockquote {
 }
 
 .bg-warning-400 {
-	background-color: #E9F6FB !important;
+	background-color: var(--warning-400) !important;
 }
 
 .border-warning-400 {
-	border-color: #E9F6FB !important;
+	border-color: var(--warning-400) !important;
 }
 
 .hoverbg-warning-400:hover {
@@ -1158,11 +1158,11 @@ blockquote {
 }
 
 .bg-warning-300 {
-	background-color: #fffdf5 !important;
+	background-color: var(--warning-300) !important;
 }
 
 .border-warning-300 {
-	border-color: #fffdf5 !important;
+	border-color: var(--warning-300) !important;
 }
 
 .hoverbg-warning-300:hover {
@@ -1186,11 +1186,11 @@ blockquote {
 }
 
 .bg-warning-200 {
-	background-color: #f6f2e8 !important;
+	background-color: var(--warning-200) !important;
 }
 
 .border-warning-200 {
-	border-color: #f6f2e8 !important;
+	border-color: var(--warning-200) !important;
 }
 
 .hoverbg-warning-200:hover {
@@ -1214,11 +1214,11 @@ blockquote {
 }
 
 .bg-warning-100 {
-	background-color: #fffcf2 !important;
+	background-color: var(--warning-100) !important;
 }
 
 .border-warning-100 {
-	border-color: #fffcf2 !important;
+	border-color: var(--warning-100) !important;
 }
 
 .hoverbg-warning-100:hover {
@@ -5682,7 +5682,6 @@ a.fugu-app-btn:last-child {
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	background-clip: text;
-	text-fill-color: transparent;
 }
 
 .fugu--counter-data p {
@@ -12975,4 +12974,9 @@ circle {
 
 .modernfont {
 	color: var(--warning-300);
+}
+
+.spantxt-blue {
+	color: var(--primary-600);
+	font-size: larger;
 }

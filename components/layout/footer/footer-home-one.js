@@ -9,33 +9,30 @@ export default function FooterHomeOne() {
 					<div className="col-lg-4">
 						<div className="fugu-textarea">
 							<div className="fugu-footer-logo">
-								<img src="/images/logo/logo-white.svg" alt="" className="light-version-logo" />
+								<img src="/images/logo/logo-black.svg" alt="" className="light-version-logo" />
 							</div>
 							<p>
-								Cryptocurrency trading is offered through an account with the fugu crypto app. Our
-								simplified zero commission pricing for use stocks.
+								Art collection and gestion is offered through an account with the MMK app. With
+								simplified zero commission pricing.
 							</p>
-							<p className="fugu-copywright">&copy; Copyright 2022, All Rights Reserved by Mthemeus</p>
+							<p className="fugu-copywright">&copy; Copyright 2022, All Rights Reserved by MMK</p>
 						</div>
 					</div>
 					<div className="col-lg-2 offset-lg-1 col-md-4 col-sm-4">
 						<div className="fugu-footer-menu">
-							<span>Product</span>
+							<span>Gallery</span>
 							<ul>
 								<li>
-									<Link href={"#"}> Invest </Link>
+									<Link href={"#"}> Summer23 </Link>
 								</li>
 								<li>
-									<Link href={"#"}> Crypto </Link>
+									<Link href={"#"}> Winter22 </Link>
 								</li>
 								<li>
-									<Link href={"#"}> Cash Card </Link>
+									<Link href={"#"}> MMK x Kotka corp. </Link>
 								</li>
 								<li>
-									<Link href={"#"}> Learn </Link>
-								</li>
-								<li>
-									<Link href={"#"}> Snacks </Link>
+									<Link href={"#"}> 1rst Draft </Link>
 								</li>
 							</ul>
 						</div>
@@ -51,13 +48,7 @@ export default function FooterHomeOne() {
 									<Link href="about-us">About </Link>
 								</li>
 								<li>
-									<Link href="career">Careers </Link>
-								</li>
-								<li>
-									<Link href="blog">Blog </Link>
-								</li>
-								<li>
-									<Link href="single-blog-light">Blog post </Link>
+									<Link href="career">Team </Link>
 								</li>
 							</ul>
 						</div>
@@ -67,10 +58,10 @@ export default function FooterHomeOne() {
 							<span>Contact</span>
 							<ul>
 								<li>
-									<Link href="tel:123">+088-234-6534 </Link>
+									<Link href="tel:123">+33643190674 </Link>
 								</li>
 								<li>
-									<Link href="mailto:name@email.com">example@gmail.com </Link>
+									<Link href="mailto:name@email.com">lucasmaillard@protonmail.com </Link>
 								</li>
 							</ul>
 						</div>
