@@ -16,8 +16,8 @@ export default function CommunicateSection() {
 								<img src="/images/all-img/contact/icon1.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data4">
-								<h4>Careers</h4>
-								<p>the job or series of jobs that you do during your working making progress</p>
+								<h4>Diggers</h4>
+								<p>Come to search for the best piece currently available with us</p>
 								<Link href={"#"} legacyBehavior>
 									<a className="fugu-icon-btn">
 										Discover More <img src="/images/svg/arrow-black-right.svg" alt="" />
@@ -33,7 +33,7 @@ export default function CommunicateSection() {
 							</div>
 							<div className="fugu-iconbox-data4">
 								<h4>Help & Support</h4>
-								<p>the job or series of jobs that you do during your working making progress</p>
+								<p>Reach us anytime if needed. Our team is here to solve all issues</p>
 								<Link href={"#"} legacyBehavior>
 									<a className="fugu-icon-btn">
 										Discover More <img src="/images/svg/arrow-black-right.svg" alt="" />
@@ -49,7 +49,7 @@ export default function CommunicateSection() {
 							</div>
 							<div className="fugu-iconbox-data4">
 								<h4>Ask Question</h4>
-								<p>the job or series of jobs that you do during your working making progress</p>
+								<p>Dont be shy, we would be glad to answer your questions</p>
 								<Link href={"#"} legacyBehavior>
 									<a className="fugu-icon-btn">
 										Discover More <img src="/images/svg/arrow-black-right.svg" alt="" />

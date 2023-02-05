@@ -20,7 +20,7 @@ export default function AboutUs() {
 			<VideoSectionThree /> */}
 			<CounterOneSection />
 			<TeamSection />
-			<ClientSliderTwo />
+			{/* <ClientSliderTwo /> */}
 		</>
 	);
 }

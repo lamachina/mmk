@@ -6639,6 +6639,7 @@ a.fugu-faq-btn:hover {
 @media (max-width: 991px) {
 	a.fugu-faq-btn {
 		position: inherit;
+		margin-bottom: 0.5rem;
 	}
 }
 

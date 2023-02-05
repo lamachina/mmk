@@ -5,9 +5,9 @@ import MapSection from "./../components/contact/map-section";
 
 export default function Contact() {
 	const location = {
-		address: "1600 Amphitheatre Parkway, Mountain View, california.",
-		lat: 37.42216,
-		lng: -122.08427,
+		address: "Maison MK.",
+		lat: 48.87037435,
+		lng: 2.316068734550804,
 	};
 
 	return (

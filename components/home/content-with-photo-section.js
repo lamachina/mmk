@@ -18,7 +18,7 @@ export default function ContentWithPhotoSection() {
 					</div>
 					<div className="col-lg-6 col-md-10 d-flex align-items-center">
 						<div className="fugu-default-content large-content">
-							<h2>Build a collection of exclusive pieces</h2>
+							<h2>Explore a collection of exclusive pieces</h2>
 							<p>
 								From paintings to sculptures and beyond, each work of art in this collection represents a
 								masterpiece of creativity and craftsmanship. Discover the beauty, rarity, and exceptional quality of <span className="spantxt-blue">MMK</span>'s selection.

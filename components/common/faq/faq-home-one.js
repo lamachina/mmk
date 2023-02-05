@@ -15,7 +15,7 @@ export default function FaqHomeOne() {
 							</p>
 
 							<Link href={"/contact"} legacyBehavior>
-								<a className="fugu-faq-btn">Want to know more? Contact us here</a>
+								<a className="fugu-faq-btn">Contact us</a>
 							</Link>
 						</div>
 					</div>
@@ -26,8 +26,8 @@ export default function FaqHomeOne() {
 								<h4>A Global Network of Enthusiasts</h4>
 								<p>
 									Our team is comprised of passionate art lovers from all over the world who are always on the move,
-									exploring the latest art scenes. Find us in hotspot cities like
-									Paris, New York, Dubai, Singapore or Vienna.
+									exploring the latest art scenes. Find us in
+									Paris, New York, Singapore, Vienna and others hot-spot cities...
 								</p>
 							</div>
 							<div className="fugu-accordion-item">

@@ -18,27 +18,27 @@ export default function ContactFormSection() {
 						<div className="fugu-default-content contact-page">
 							<h2>Have any questions? We will talk to you sincerely anytime</h2>
 							<p>
-								If you have any questions about subscription or usage, please fill out the form and our
-								team will get back to you within 24 hours.
+								If you have any questions about registration or usage, please fill out the form and our
+								team will get back to you as soon as possible.
 							</p>
 							<div className="fugu-contact-info">
 								<ul>
 									<li>
-										<Link href="tel:123">
+										<Link href="tel:33643190674">
 											<div className="fugu-contact-info-icon">
 												<img src="/images/social/call.svg" alt="" />
 											</div>
 											<h5>Call us</h5>
-											<p>+088-234-6534-563</p>
+											<p>+33 6 43 19 06 74</p>
 										</Link>
 									</li>
 									<li>
-										<Link href="mailto:name@email.com">
+										<Link href="mailto:lucasmaillard@protonmail.com">
 											<div className="fugu-contact-info-icon">
 												<img src="/images/social/email.svg" alt="" />
 											</div>
 											<h5>Email us</h5>
-											<p>example@gmail.com</p>
+											<p>lucasmaillard@protonmail.com</p>
 										</Link>
 									</li>
 									<li>
@@ -47,7 +47,7 @@ export default function ContactFormSection() {
 												<img src="/images/social/map.svg" alt="" />
 											</div>
 											<h5>Office address</h5>
-											<p>4132 Thornridge City, New York.</p>
+											<p>around the world coming soon...</p>
 										</Link>
 									</li>
 								</ul>
@@ -56,7 +56,8 @@ export default function ContactFormSection() {
 					</div>
 					<div className="col-xl-6 col-lg-6 offset-xl-1">
 						<div className="fugu-contact-wrap  wow fadeInUpX">
-							<form onSubmit={handleSubmit(onSubmit)}>
+							<form action="https://formspree.io/f/xwkjvgye"
+								method="POST">
 								<div className="fugu-input-field">
 									<label>Your name</label>
 									<input

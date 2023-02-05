@@ -11,30 +11,30 @@ export default function CounterOneSection() {
 						<div className="fugu-counter-wrap">
 							<div className="fugu-counter-data wow fadeInUpX" data-wow-delay=".10s">
 								<h2>
+									<strong>+</strong>
 									<span className="fugu-counter">
-										<CountUp end={83} />
+										<CountUp end={50} />
 									</span>
-									<strong>M</strong>
 								</h2>
-								<p>Total successful projects completed</p>
+								<p>artists standing out</p>
 							</div>
 							<div className="fugu-counter-data wow fadeInUpX" data-wow-delay=".20s">
 								<h2>
 									<span className="fugu-counter">
-										<CountUp end={6} />
+										<CountUp end={99} />
 									</span>
-									<strong>M</strong>
+									<strong>%</strong>
 								</h2>
-								<p>Satisfied clients around the world</p>
+								<p>satisfied clients</p>
 							</div>
 							<div className="fugu-counter-data wow fadeInUpX" data-wow-delay=".30s">
 								<h2>
 									<span className="fugu-counter">
-										<CountUp end={7} />
+										<CountUp end={1} />
 									</span>
-									<strong>%</strong>
+									<strong>y</strong>
 								</h2>
-								<p>Our company's success rate</p>
+								<p>having fun together</p>
 							</div>
 						</div>
 					</div>

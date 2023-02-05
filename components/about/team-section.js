@@ -12,13 +12,13 @@ export default function TeamSection() {
 					<div className="col-xxl-3 col-lg-4 col-md-6">
 						<div className="fugu-team-wrap wow fadeInUpX" data-wow-delay=".10s">
 							<div className="fugu-team-thumb">
-								<img src="/images/all-img/about/team1.png" alt="" />
+								<img src="/images/all-img/about/leopard2.jpg" alt="" />
 								<div className="fugu-team-data">
 									<h5>
-										<Link href={"single-team"}>Cameron Williamson</Link>
+										<Link href={"single-team"}>Leopardo Dicaprio</Link>
 									</h5>
 									<div className="fugu-team-data-wrap">
-										<p>CEO@company</p>
+										<p>CEO - The EYE</p>
 										<div className="fugu-social-icon2">
 											<ul>
 												<li>
@@ -105,10 +105,10 @@ export default function TeamSection() {
 					<div className="col-xxl-3 col-lg-4 col-md-6">
 						<div className="fugu-team-wrap wow fadeInUpX" data-wow-delay=".20s">
 							<div className="fugu-team-thumb">
-								<img src="/images/all-img/about/team2.png" alt="" />
+								<img src="/images/all-img/about/lion2.jpg" alt="" />
 								<div className="fugu-team-data">
 									<h5>
-										<a href="single-team.html">Leslie Alexander</a>
+										<a href="single-team.html">Lionel Messia</a>
 									</h5>
 									<div className="fugu-team-data-wrap">
 										<p>Product Designer</p>
@@ -198,13 +198,13 @@ export default function TeamSection() {
 					<div className="col-xxl-3 col-lg-4 col-md-6">
 						<div className="fugu-team-wrap wow fadeInUpX" data-wow-delay=".30s">
 							<div className="fugu-team-thumb">
-								<img src="/images/all-img/about/team3.png" alt="" />
+								<img src="/images/all-img/about/bear2.jpg" alt="" />
 								<div className="fugu-team-data">
 									<h5>
-										<a href="single-team.html">Esther Howard</a>
+										<a href="single-team.html">Bearnard Pivo</a>
 									</h5>
 									<div className="fugu-team-data-wrap">
-										<p>WP Developer</p>
+										<p>Antiquities expert</p>
 										<div className="fugu-social-icon2">
 											<ul>
 												<li>
@@ -291,10 +291,10 @@ export default function TeamSection() {
 					<div className="col-xxl-3 col-lg-4 col-md-6 offset-xxl-0 offset-lg-4">
 						<div className="fugu-team-wrap wow fadeInUpX" data-wow-delay=".40s">
 							<div className="fugu-team-thumb">
-								<img src="/images/all-img/about/team4.png" alt="" />
+								<img src="/images/all-img/about/tiger2.jpg" alt="" />
 								<div className="fugu-team-data">
 									<h5>
-										<a href="single-team.html">Kristin Watson</a>
+										<a href="single-team.html">Tiger Wood</a>
 									</h5>
 									<div className="fugu-team-data-wrap">
 										<p>Marketing Expert</p>
