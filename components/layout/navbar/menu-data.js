@@ -3,6 +3,10 @@ export const DemoDropdownMenus = [
 		title: "Home",
 		path: "/",
 	},
+	{
+		title: "About",
+		path: "/about-us",
+	},
 	/* {
 		title: "Home 02",
 		path: "index-two",
@@ -289,6 +293,14 @@ export const ElementsMegaMenu = [
 
 export const BlogDropdownMenus = [
 	{
+		title: "SS23",
+		path: "coming-soon",
+	},
+	{
+		title: "First Draft",
+		path: "portfolio-two",
+	},
+	/* {
 		title: "Blog Dark",
 		path: "blog-dark",
 	},
@@ -315,7 +327,7 @@ export const BlogDropdownMenus = [
 	{
 		title: "Single Blog Light",
 		path: "single-blog-light",
-	},
+	}, */
 ];
 
 export const ContactDropdownMenus = [

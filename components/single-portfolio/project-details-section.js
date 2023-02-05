@@ -9,7 +9,7 @@ export default function ProjectDetailsSection() {
 			<ul>
 				<li>
 					<span>Client:</span>
-					Adam Smith
+					Baptiste Belbito
 				</li>
 				<li>
 					<span>Category:</span>

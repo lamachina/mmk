@@ -14,7 +14,7 @@ export default function RelatedProjectSection() {
 			<div className="row">
 				<div className="col-lg-4 col-md-6">
 					<div className="fugu-gallery-item wow fadeInUpX" data-wow-delay="0s">
-						<img src="/images/all-img/portfolio/p3.png" alt="" />
+						<img src="/images/all-img/portfolio/a3.png" alt="" />
 						<div className="fugu-gallery-data">
 							<h5>
 								<Link href={"single-portfolio"}> Commercial </Link>
@@ -25,7 +25,7 @@ export default function RelatedProjectSection() {
 				</div>
 				<div className="col-lg-4 col-md-6">
 					<div className="fugu-gallery-item wow fadeInUpX" data-wow-delay=".10s">
-						<img src="/images/all-img/portfolio/p4.png" alt="" />
+						<img src="/images/all-img/portfolio/a4.png" alt="" />
 						<div className="fugu-gallery-data">
 							<h5>
 								<Link href={"single-portfolio"}> Primitive culture </Link>
@@ -36,7 +36,7 @@ export default function RelatedProjectSection() {
 				</div>
 				<div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
 					<div className="fugu-gallery-item wow fadeInUpX" data-wow-delay=".20s">
-						<img src="/images/all-img/portfolio/p5.png" alt="" />
+						<img src="/images/all-img/portfolio/a5.png" alt="" />
 						<div className="fugu-gallery-data">
 							<h5>
 								<Link href={"single-portfolio"}> Crypto coin </Link>

@@ -48,8 +48,9 @@ export default function HeaderHomeOne() {
 							<Navbar>
 								<NavItem navItemText="Home" menuItems={DemoDropdownMenus} />
 								{/* <NavItem navItemText="Pages" menuItems={PagesDropdownMenus} />
-								<NavItem navItemText="Elements" menuItems={ElementsMegaMenu} megaMenu />
-								<NavItem navItemText="Blog" menuItems={BlogDropdownMenus} /> */}
+								<NavItem navItemText="Elements" menuItems={ElementsMegaMenu} megaMenu /> */}
+
+								<NavItem navItemText="Exposition" menuItems={BlogDropdownMenus} />
 								<NavItem navItemText="Contact" menuItems={ContactDropdownMenus} />
 							</Navbar>
 						</nav>

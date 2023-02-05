@@ -47,9 +47,9 @@ export default function FooterHomeOne() {
 								<li>
 									<Link href="about-us">About </Link>
 								</li>
-								<li>
+								{/* <li>
 									<Link href="career">Team </Link>
-								</li>
+								</li> */}
 							</ul>
 						</div>
 					</div>

@@ -4439,6 +4439,7 @@ button#fugu--search-btn {
 .fugu--blog-date ul {
 	display: flex;
 	align-items: center;
+	flex-direction: column;
 }
 
 .fugu--blog-date ul li {

@@ -7,7 +7,7 @@ const FilterGallaryThree = dynamic(() => import("../components/common/filter-gal
 export default function PortfolioTwo() {
 	return (
 		<>
-			<BreadcrumbOne title="Portfolio 02" />
+			<BreadcrumbOne title="First Draft" />
 			<FilterGallaryThree />
 		</>
 	);
