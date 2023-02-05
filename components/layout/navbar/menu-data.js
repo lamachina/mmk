@@ -1,9 +1,9 @@
 export const DemoDropdownMenus = [
 	{
-		title: "Home 01",
+		title: "Home",
 		path: "/",
 	},
-	{
+	/* {
 		title: "Home 02",
 		path: "index-two",
 	},
@@ -18,7 +18,7 @@ export const DemoDropdownMenus = [
 	{
 		title: "Home 05",
 		path: "index-five",
-	},
+	}, */
 ];
 export const PagesDropdownMenus = [
 	{
@@ -319,16 +319,16 @@ export const BlogDropdownMenus = [
 ];
 
 export const ContactDropdownMenus = [
-	{
+	/* {
 		title: "Contact Dark",
 		path: "contact-dark",
-	},
+	}, */
 	{
-		title: "Contact Light 01",
+		title: "Contact us",
 		path: "contact",
 	},
-	{
+	/* {
 		title: "Contact Light 02",
 		path: "contact-light",
-	},
+	}, */
 ];

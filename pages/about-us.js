@@ -12,15 +12,14 @@ export default function AboutUs() {
 	return (
 		<>
 			<Head>
-				<title>fugu - about us</title>
+				<title>MMK</title>
 			</Head>
 			<Breadcrumb />
 			<AboutSection />
-			<FeatureOneSection />
-			<VideoSectionThree />
+			{/* <FeatureOneSection />
+			<VideoSectionThree /> */}
 			<CounterOneSection />
 			<TeamSection />
-			<FaqSection />
 			<ClientSliderTwo />
 		</>
 	);

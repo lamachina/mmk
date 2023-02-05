@@ -58,10 +58,10 @@ export default function FooterHomeOne() {
 							<span>Contact</span>
 							<ul>
 								<li>
-									<Link href="tel:123">+33643190674 </Link>
+									<Link href="tel:33643190674">+33643190674 </Link>
 								</li>
 								<li>
-									<Link href="mailto:name@email.com">lucasmaillard@protonmail.com </Link>
+									<Link href="mailto:lucasmaillard@protonmail.com">lucasmaillard@protonmail.com </Link>
 								</li>
 							</ul>
 						</div>
