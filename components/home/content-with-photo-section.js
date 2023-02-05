@@ -18,15 +18,13 @@ export default function ContentWithPhotoSection() {
 					</div>
 					<div className="col-lg-6 col-md-10 d-flex align-items-center">
 						<div className="fugu-default-content large-content">
-							<h2>Build a portfolio with popular coins</h2>
+							<h2>Build a collection of exclusive pieces</h2>
 							<p>
-								To achieve a diversified portfolio, look for asset classes that have low or negative
-								correlations so that if moves down, the other tends to it. ETFs and mutual funds are
-								easy ways to select asset.
+								From paintings to sculptures and beyond, each work of art in this collection represents a
+								masterpiece of creativity and craftsmanship. Discover the beauty, rarity, and exceptional quality of Maison Maillard Konzett's selection.
 							</p>
 							<p>
-								The best way to start a crypto portfolio is to have at least a 60% stake in Bitcoin
-								&Ethereum which you can easily do with this app.
+								Experience the finest in modern art and antiquities at Maison Maillard Konzett.
 							</p>
 							<div className="fugu-btn-wrap">
 								<Link href={"contact"} legacyBehavior>

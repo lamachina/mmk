@@ -23,7 +23,7 @@ export default function Preloader() {
 						<circle cx="50" cy="50" r="46" />
 					</svg>
 				</div>
-				<div className="fugu-title">loading...</div>
+				<div className="fugu-title">MMK</div>
 			</div>
 		)
 	);
